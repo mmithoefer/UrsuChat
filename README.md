@@ -1,3 +1,5 @@
+!Kein offizielles Projekt der Ursulaschule!
+
 <p align="center"><a href="https://ursulaschule.de" target="_blank"><img src="https://urs-os.de/iserv/logo/logo.png" width="400"></a></p>
 
 ## Installation
