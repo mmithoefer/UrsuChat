@@ -5,7 +5,7 @@
 ## Installation
 
 1. Reposetory clonen
-2. .env Datei aus .ev.example erstellen und anpassen
+2. .env Datei aus .env.example erstellen und anpassen
 4. _php artisan migrate_
 5. _php artisan db:seed_
 6. _npm install_
